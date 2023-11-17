@@ -1,0 +1,26 @@
+﻿Gene,Gene name,Main location,Other location,Expression type,Reliability,Main location GO id,Other location GO id
+ENSG00000000003,TSPAN6,Cytoplasm,,APE,Uncertain,GO:0005737,
+ENSG00000000457,SCYL3,Cytoskeleton (Microtubules),Nucleus but not nucleoli;Golgi apparatus,APE,Uncertain,GO:0015630,
+ENSG00000000460,C1orf112,Nucleus but not nucleoli;Mitochondria,,APE,Uncertain,GO:0005654;GO:0005739,
+ENSG00000000938,FGR,Plasma membrane,Aggresome,APE,Uncertain,GO:0005886,
+ENSG00000001036,FUCA2,Nucleus but not nucleoli;Mitochondria,,APE,Uncertain,GO:0005654;GO:0005739,
+ENSG00000001084,GCLC,Nucleus;Nucleoli;Cytoplasm,,APE,Supportive,GO:0005634;GO:0005730;GO:0005737,
+ENSG00000001167,NFYA,Nucleus but not nucleoli,,APE,Supportive,GO:0005654,
+ENSG00000004660,CAMKK1,Cytoplasm,,APE,Supportive,GO:0005737,
+ENSG00000004700,RECQL,Nucleus but not nucleoli,,APE,Supportive,GO:0005654,
+ENSG00000004766,CCDC132,Cytoplasm,Plasma membrane,APE,Uncertain,GO:0005737,GO:0005886
+ENSG00000004777,ARHGAP33,Plasma membrane,Cytoplasm;Cytoskeleton (Actin filaments),APE,Uncertain,GO:0005886,GO:0005737;GO:0015629
+ENSG00000004838,ZMYND10,Plasma membrane;Cytoplasm,,APE,Uncertain,GO:0005886;GO:0005737,
+ENSG00000004864,SLC25A13,Mitochondria,,APE,Supportive,GO:0005739,
+ENSG00000004866,ST7,Nucleus but not nucleoli,Cytoplasm,APE,Supportive,GO:0005654,GO:0005737
+ENSG00000004897,CDC27,Nucleus but not nucleoli,,APE,Supportive,GO:0005654,
+ENSG00000004961,HCCS,Mitochondria,,APE,Supportive,GO:0005739,
+ENSG00000009954,BAZ1B,Nucleus,,APE,Supportive,GO:0005634,
+ENSG00000010017,RANBP9,Nucleus but not nucleoli,Cytoplasm,APE,Supportive,GO:0005654,
+ENSG00000010030,ETV7,Nucleus but not nucleoli,,APE,Supportive,GO:0005654,
+ENSG00000010072,SPRTN,Nucleus but not nucleoli,,APE,Supportive,GO:0005654,
+ENSG00000010165,METTL13,Cytoplasm,,APE,Uncertain,GO:0005737,
+ENSG00000010219,DYRK4,Vesicles,,APE,Supportive,GO:0043231,
+ENSG00000010244,ZNF207,Nucleus,,APE,Supportive,GO:0005634,
+ENSG00000010256,UQCRC1,Mitochondria,Cytoplasm,APE,Supportive,GO:0005739,
+ENSG00000010278,CD9,Plasma membrane,,APE,Supportive,GO:0005886,

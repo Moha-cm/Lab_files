@@ -1,0 +1,26 @@
+﻿Gene,Gene name,Tumor,Level,Count patients,Total patients,Expression type
+ENSG00000002586,CD99,breast cancer,Medium,3,11,Staining
+ENSG00000002586,CD99,breast cancer,Low,2,11,Staining
+ENSG00000002586,CD99,breast cancer,Not detected,6,11,Staining
+ENSG00000002586,CD99,carcinoid,High,0,4,Staining
+ENSG00000002586,CD99,carcinoid,Medium,3,4,Staining
+ENSG00000000457,SCYL3,breast cancer,Not detected,8,12,Staining
+ENSG00000000457,SCYL3,carcinoid,High,0,4,Staining
+ENSG00000000457,SCYL3,carcinoid,Medium,0,4,Staining
+ENSG00000000457,SCYL3,carcinoid,Low,3,4,Staining
+ENSG00000000457,SCYL3,carcinoid,Not detected,1,4,Staining
+ENSG00000000460,C1orf112,breast cancer,High,1,12,Staining
+ENSG00000000460,C1orf112,breast cancer,Medium,8,12,Staining
+ENSG00000000460,C1orf112,breast cancer,Low,1,12,Staining
+ENSG00000000460,C1orf112,breast cancer,Not detected,2,12,Staining
+ENSG00000000938,FGR,breast cancer,High,0,12,Staining
+ENSG00000000938,FGR,breast cancer,Medium,1,12,Staining
+ENSG00000000938,FGR,breast cancer,Low,11,12,Staining
+ENSG00000000938,FGR,breast cancer,Not detected,0,12,Staining
+ENSG00000004777,ARHGAP33,carcinoid,Medium,2,4,Staining
+ENSG00000004777,ARHGAP33,carcinoid,Low,2,4,Staining
+ENSG00000004777,ARHGAP33,carcinoid,Not detected,0,4,Staining
+ENSG00000004777,ARHGAP33,cervical cancer,High,0,12,Staining
+ENSG00000004777,ARHGAP33,cervical cancer,Medium,2,12,Staining
+ENSG00000004777,ARHGAP33,cervical cancer,Low,5,12,Staining
+ENSG00000004777,ARHGAP33,cervical cancer,Not detected,5,12,Staining
