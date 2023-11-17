@@ -5,12 +5,12 @@ This repository contains basic SQL queries implemented in PHPMyAdmin using the F
 
 ## Queries
 
-1. **SELECT Query**: Retrieve data from a table. ([select_query.sql](/sql_queries/select_query.sql))
+1. **SELECT Query**: Retrieve data from a table. 
 
-2. **INSERT Query**: Add new records to a table. ([insert_query.sql](/sql_queries/insert_query.sql))
+2. **INSERT Query**: Add new records to a table. 
 
-3. **UPDATE Query**: Modify existing data in a table. ([update_query.sql](/sql_queries/update_query.sql))
+3. **UPDATE Query**: Modify existing data in a table. 
 
-4. **DELETE Query**: Remove records from a table. ([delete_query.sql](/sql_queries/delete_query.sql))
+4. **DELETE Query**: Remove records from a table. 
 
 Feel free to go through the pdf file.
